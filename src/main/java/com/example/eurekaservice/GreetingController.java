@@ -12,5 +12,4 @@ public class GreetingController {
         return "Hello from eureka-service-2" ;
     }
 
-
 }
